@@ -18,7 +18,7 @@
 ![Screenshot 2022-02-01 at 7 49 (2)](https://user-images.githubusercontent.com/73344365/151989514-10440072-ab63-4511-8df4-204152a51366.png)
 ![Screenshot 2022-02-01 at 7 49](https://user-images.githubusercontent.com/73344365/151989524-9aed0bf4-ebdb-4278-8702-c9047870fab1.png)
 
-## Visit anyone's Profile, By simply clicking on thier username.
+## Visit anyone's Profile, By simply clicking on their username.
 ![Screenshot 2022-02-01 at 7 49 (1)](https://user-images.githubusercontent.com/73344365/151989499-0c9697be-763d-44af-a66d-8779b2162955.png)
 ## Update your profile.
 ![Screenshot 2022-02-01 at 7 50](https://user-images.githubusercontent.com/73344365/151989535-82665a1d-2953-4e4a-a85b-c21613f1c56f.png)
